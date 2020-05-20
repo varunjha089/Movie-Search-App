@@ -1,4 +1,19 @@
+# Movie Search App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## To run this app
+
+In the project directory, please run:
+
+### `npm install`
+
+This command to install the node dependencies to the project
+
+### MovieDB API
+
+Please get the [MovieDB](https://developers.themoviedb.org/3/getting-started/introduction) API, and paste it in the `SearchMovie.js`
+file. Look at this ![screenshot](./screenshots/api-key.png)
 
 ## Available Scripts
 
@@ -66,3 +81,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### The full scrreenshot of the app is ![here](./screenshots/full-app-screenshot.jpg)
+
+###Follow me on social
+
+GitHub [![GitHub](./screenshots/github.png)](https://github.com/varunjha089)
+
+Twitter [![Twitter](./screenshots/twitter.png)](https://twitter.com/varunjha089)
