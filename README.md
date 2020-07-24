@@ -84,7 +84,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### The full scrreenshot of the app is ![here](./screenshots/full-app-screenshot.jpg)
 
-###Follow me on social
+### Follow me on social
 
 GitHub [![GitHub](./screenshots/github.png)](https://github.com/varunjha089)
 
